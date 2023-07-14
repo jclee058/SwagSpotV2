@@ -1,0 +1,31 @@
+.locationTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px !important;
+}
+
+.locationCard{
+    margin-top: 100px !important;
+}
+
+.locationDesc1{
+    font-family: 'Barlow', sans-serif;
+    font-size: 28px !important;
+    margin-bottom: 20px;
+}
+
+.locationDesc2{
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px !important;
+    margin-bottom: 10px;
+}
+
+.locationPgImg{
+    width: 550px;
+    height: 550px;
+    margin-top: 50px;
+}
+
+#mapsEmbed{
+    margin-top: 60px;
+    margin-right: 50px;
+}

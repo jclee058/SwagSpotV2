@@ -1,0 +1,38 @@
+.homePgImg{
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+    width: 500px !important;
+    height: 600px !important;
+}
+
+.homeTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 100px;
+}
+
+.homeDesc{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 60px;
+    color: #5C0796;
+}
+
+.homeCard{
+    margin-top: 20px !important;
+    width: 450px;
+    margin-left: 600px;
+    background-color: white !important;
+    border-color: white !important;
+}
+
+.learnBtn{
+    font-family: 'Bebas Neue', sans-serif !important;
+    font-size: 30px !important;
+}
+
+.mainHomeDiv{
+    background-image: url("../images/home.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 6rem;
+}

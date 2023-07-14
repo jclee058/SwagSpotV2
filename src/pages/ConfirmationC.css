@@ -1,0 +1,22 @@
+.confirmMessage2{
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 65px !important;
+    color: white;
+    background-color: rgba(71, 29, 112, .8);
+}
+
+.mainDiv2{
+    background-image: url("../images/confirmcontact.jpeg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 6rem;
+}
+
+.backHomeBtn2{
+    font-size: 30px;
+    background-color: white;
+    color: rgb(71, 29, 112);
+}

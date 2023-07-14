@@ -1,0 +1,16 @@
+.faqTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px !important;
+    color: white;
+    text-align: center;
+}
+
+.questionTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px !important;
+}
+
+.answerBody{
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px !important;
+}

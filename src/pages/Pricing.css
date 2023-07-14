@@ -1,0 +1,29 @@
+.cardTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px !important;
+}
+
+.browseBtn{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px !important;
+    background-color: rgb(71, 29, 112) !important;
+    border-color: rgb(71, 29, 112) !important;
+}
+
+.pricingPgTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 75px !important;
+    text-align: center;
+    color: white;
+}
+
+.priceCol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.priceText{
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px !important;
+}

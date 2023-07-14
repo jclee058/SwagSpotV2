@@ -1,0 +1,79 @@
+.aboutCarousel{
+    margin-top: 120px !important;
+}
+
+.aboutCard{
+    margin-top: 80px !important;
+}
+
+.aboutTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px !important;
+}
+
+.aboutDesc{
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px !important;
+}
+
+#aboutImg1{
+    border-radius: 5px;
+    height: 450px !important;
+}
+
+#aboutImg2{
+    border-radius: 5px;
+    height: 450px !important;
+}
+
+#aboutImg3{
+    border-radius: 5px;
+    height: 450px !important;
+}
+
+.instContainer{
+    margin-top: 60px;
+    margin-bottom: 10px !important;
+    background-color: white !important;
+    border-radius: 5px;
+}
+
+.instRow{
+    justify-content: center;
+    margin-bottom: 20px !important;
+}
+
+.instCol{
+    justify-content: center;
+    width: 300px;
+}
+
+.meetInstTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 60px !important;
+    text-align: center;
+}
+
+.instAccordion{
+    border: none !important;
+}
+
+.instImg{
+    height: 400px;
+}
+
+.instCardTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px !important;
+    font-weight: bold;
+}
+
+.accordText{
+    font-family: 'Barlow', sans-serif;
+    font-size: 15px !important;
+    font-weight: bold;
+}
+
+.teacherCard{
+    margin-left: 20px;
+}

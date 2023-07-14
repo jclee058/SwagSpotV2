@@ -1,0 +1,86 @@
+#filterCol{
+    background-color:rgb(71, 29, 112) !important;
+    border-radius: 5px;
+}
+
+#resultCol{
+    background-color: white;
+}
+
+#pageContainer{
+    background: gray !important;
+}
+
+.refineSearchTitle{
+    margin-left: 0.1px;
+    margin-top: 3px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px !important;
+    color: white;
+}
+
+.skillTitle{
+    margin-left: 0.1px;
+    margin-top: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px !important;
+    color: white;
+}
+
+.styleTitle{
+    margin-left: 0.1px;
+    margin-top: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px !important;
+    color: white;
+}
+
+.checkBoxLabel{
+    font-family: 'Barlow', sans-serif;
+    font-size: 18px !important;
+    color: white;
+}
+
+.classCard{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.cardTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px !important;
+}
+
+.cardText{
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px !important;
+}
+
+.tag{
+    font-family: 'Barlow', sans-serif;
+    font-size: 14px !important;
+    background-color: rgb(71, 29, 112) ;
+    color: white;
+    border-radius: 15px;
+    width: 90px;
+    text-align: center; 
+    align-items: end;
+    justify-content: flex-start;
+    margin-bottom: 5px;
+    margin-right: 3px;
+}
+
+.cardImg{
+    margin-top: 5px;
+    height: 200px;
+    width: 270px;
+    align-self: center;
+}
+
+.classPgTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 60px !important;
+    text-align: center;
+    color: white;
+    background-color: rgb(71, 29, 112);
+}

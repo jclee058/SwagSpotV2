@@ -1,0 +1,40 @@
+.dayTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 45px !important;
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.timeTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 45px !important;
+    text-align: center;
+    color: black;
+}
+
+#mb{
+    font-family: 'Barlow', sans-serif;
+    font-size: 25px !important;
+}
+
+.scheduleTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 60px !important;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.dayRow{
+    background-color: #DCDADF;
+}
+
+.timeCol{
+    background-color: #DCDADF;
+}
+
+.classCol{
+    background-color: white;
+}
